@@ -47,7 +47,6 @@ I’m especially interested in:
 - Open Source contribution
 - Web design and UI
 - Video games as a source of creative inspiration  
-  *(The Last of Us, God of War, Uncharted, Red Dead Redemption 2, Call of Duty)*
 
 ---
 
