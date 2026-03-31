@@ -1,71 +1,79 @@
-<h1 align="center">Hola 👋🏼 soy Paul Velasco ✨</h1>
-
-<p align="center">
-  <em>sic parvis magna</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/paul-velasco-95843b379" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Paul Velasco"/></a>
-  <a href="mailto:tu_correo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<br>
-
-<h2>Sobre mí 😃</h2>
-
-<p align="left">
-  🎓 <strong>Estudiante de Ingeniería en Desarrollo de Software</strong> en la UPChiapas.<br><br>
-  💻 <strong>Frontend Developer</strong> enfocado en construir interfaces limpias, funcionales y mantenibles, priorizando un diseño UI/UX pulido y minimalista.<br><br>
-  🚀 <strong>Intereses principales:</strong> Ecosistema JavaScript moderno, soluciones del mundo real, mejora continua y fundamentos de ciberseguridad.<br><br>
-</p>
-
-<br>
-
-<h2>Tecnologías y Herramientas 👨🏻‍💻</h2>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,mysql,git,github,vscode,figma,windows&perline=12" alt="Tech Stack" />
-  </a>
-</p>
-
-<br>
-
-<div id="proyectos">
-  <h2>Proyectos Destacados 🚀</h2>
-
-  <table align="left">
-    <tr border="none">
-      <td width="33%" align="center">
-        <h3>AutoSoft</h3>
-        <p align="center">Sistema integral para la gestión de entregas, caja y nómina empresarial.</p>
-      </td>
-      <td width="33%" align="center">
-        <h3>UP-Cel</h3>
-        <p align="center">Aplicación móvil tipo marketplace diseñada para el entorno universitario.</p>
-      </td>
-      <td width="33%" align="center">
-        <h3>Ñam Ñam</h3>
-        <p align="center">Plataforma web de recetas de cocina con temporizadores integrados.</p>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=500&size=30&vCenter=true&width=500&height=50&duration=4000&color=94A3B8&lines=Hola,+soy+Paul+Velasco+👋;Frontend+Developer;UI/UX+Enthusiast" alt="Typing" />
+  <p style="color: #64748B;"><em>sic parvis magna</em></p>
+  
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+    <a href="https://linkedin.com/in/paul-velasco-95843b379" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:unsimpledev@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
 </div>
 
-<br><br><br><br><br><br><br>
+<br>
 
-<h2>GitHub Stats 📈</h2>
-
-<p align="center">
-  <table align="left">
-    <tr border="none">
-      <td width="55%" align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dark&hide_border=false" /> 
-      </td>
-      <td width="45%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
-      </td>
-    </tr>
-  </table>
+<h2>📖 | Sobre mí</h2>
+<p align="left">
+  Estudiante de Ingeniería en Desarrollo de Software en la UPChiapas. Me especializo en el desarrollo Frontend, priorizando un diseño UI/UX pulido, minimalista y funcional. Encuentro inspiración para mis interfaces analizando la usabilidad y el flujo de interacción de los videojuegos.
 </p>
-<br><br><br><br><br><br><br>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+
+<h2>🛠️ | Stack Tecnológico</h2>
+<table>
+  <tr>
+    <td style="font-weight: bold; padding-right: 15px; vertical-align: center; border: none;">Frontend:</td>
+    <td style="border: none;"><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 15px; vertical-align: center; border: none;">Backend & DB:</td>
+    <td style="border: none;"><img height="40" src="https://skillicons.dev/icons?i=nodejs,mysql"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 15px; vertical-align: center; border: none;">Herramientas:</td>
+    <td style="border: none;"><img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,figma,windows"/></td>
+  </tr>
+</table>
+
+<br>
+
+<h2>🚀 | Proyectos Destacados</h2>
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="33%" align="center" valign="top" style="padding: 15px; border: 1px solid #333;">
+      <b>AutoSoft</b><br><br>
+      <sub style="color: #888;">Sistema integral para gestión de entregas, caja y nómina.</sub>
+    </td>
+    <td width="33%" align="center" valign="top" style="padding: 15px; border: 1px solid #333;">
+      <b>UP-Cel</b><br><br>
+      <sub style="color: #888;">Marketplace móvil diseñado para el entorno universitario.</sub>
+    </td>
+    <td width="33%" align="center" valign="top" style="padding: 15px; border: 1px solid #333;">
+      <b>Ñam Ñam</b><br><br>
+      <sub style="color: #888;">Plataforma web de recetas con temporizadores integrados.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2>⭐ | GitHub Stats</h2>
+<div align="center">
+  <a href="https://github.com/unsimpledev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unsimpledev&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=58A6FF&text_color=A1A1AA&icon_color=58A6FF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&layout=compact&langs_count=5&theme=transparent&hide_border=true&title_color=58A6FF&text_color=A1A1AA"/>
+  </a>
+</div>
+
+<h2>🔥 | Contribution Streak</h2>
+<p align="center">
+  <a href="https://github.com/unsimpledev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=transparent&hide_border=true&title_color=58A6FF&text_color=A1A1AA&sideNums=A1A1AA&sideLabels=A1A1AA&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=A1A1AA"/>
+  </a>
+</p>
