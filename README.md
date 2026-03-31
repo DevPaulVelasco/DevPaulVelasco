@@ -65,19 +65,16 @@
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="33%" align="center" valign="top" style="padding: 10px; border: 1px solid #333;">
-      <img src="https://via.placeholder.com/300x150.png?text=AutoSoft+Preview" alt="AutoSoft project preview" width="100%"/>
       <br><br>
       <b>AutoSoft</b>
       <sub style="color: #666;"><br>Sistema de gestión para empresas de transporte.</sub>
     </td>
     <td width="33%" align="center" valign="top" style="padding: 10px; border: 1px solid #333;">
-      <img src="https://via.placeholder.com/300x150.png?text=UP-Cel+Preview" alt="UP-Cel project preview" width="100%"/>
       <br><br>
       <b>UP-Cel Marketplace</b>
       <sub style="color: #666;"><br>Plataforma de compra/venta para estudiantes.</sub>
     </td>
     <td width="33%" align="center" valign="top" style="padding: 10px; border: 1px solid #333;">
-      <img src="https://via.placeholder.com/300x150.png?text=Ñam+Ñam+Preview" alt="Ñam Ñam project preview" width="100%"/>
       <br><br>
       <b>Ñam Ñam Recetas</b>
       <sub style="color: #666;"><br>Plataforma de recetas de cocina con UI/UX moderna.</sub>
@@ -89,7 +86,7 @@
 
 ---
 
-<h2>📊 Mis Contribuciones (La Serpiente)</h2>
+<h2>📊 La Serpiente</h2>
 <p align="left">
   Una forma visual de ver mi actividad de contribuciones en GitHub.
 </p>
