@@ -1,64 +1,71 @@
-<h2 align="center">
-  Hi, I'm Paul Velasco 👋
-</h2>
-
-<p align="center">
-  Software Engineering Student · Junior Web Developer  
-</p>
+<h1 align="center">Hola 👋🏼 soy Paul Velasco ✨</h1>
 
 <p align="center">
   <em>sic parvis magna</em>
 </p>
 
----
-
-### About me
-
-I'm a software engineering student based in Tuxtla Gutiérrez, Chiapas, Mexico.  
-I focus on building clean, functional, and maintainable web applications while continuously improving my skills through real projects and self-learning.
-
-I’m especially interested in:
-- Frontend development
-- Modern web interfaces
-- Practical, real-world solutions
-- Continuous improvement through hands-on experience
-
----
-
-### Tech Stack
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59575502/127426309-0b2bbd98-9756-4798-ad10-f60da4a4d5fb.png" alt="HTML5" width="30" />
-  <img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" alt="CSS3" width="30" />
-  <img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" alt="JavaScript" width="30" />
-  <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="MySQL" width="30" />
-  <img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" alt="Git" width="30" />
+  <a href="https://linkedin.com/in/paul-velasco-95843b379" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Paul Velasco"/></a>
+  <a href="mailto:tu_correo@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59575502/127427979-7eddf4e0-1d7e-4735-8564-6a0f641130d6.png" alt="VS Code" width="30" />
-  <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="Windows" width="30" />
+<br>
+
+<h2>Sobre mí 😃</h2>
+
+<p align="left">
+  🎓 <strong>Estudiante de Ingeniería en Desarrollo de Software</strong> en la UPChiapas.<br><br>
+  💻 <strong>Frontend Developer</strong> enfocado en construir interfaces limpias, funcionales y mantenibles, priorizando un diseño UI/UX pulido y minimalista.<br><br>
+  🚀 <strong>Intereses principales:</strong> Ecosistema JavaScript moderno, soluciones del mundo real, mejora continua y fundamentos de ciberseguridad.<br><br>
 </p>
 
----
+<br>
 
-### Interests
+<h2>Tecnologías y Herramientas 👨🏻‍💻</h2>
 
-- Open Source contribution
-- Web design and UI
-- Video games as a source of creative inspiration  
-
----
-
-### Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/paul-velasco-95843b379" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css,mysql,git,github,vscode,figma,windows&perline=12" alt="Tech Stack" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="footer image" width="100"/>
-</p>
+<br>
 
+<div id="proyectos">
+  <h2>Proyectos Destacados 🚀</h2>
+
+  <table align="left">
+    <tr border="none">
+      <td width="33%" align="center">
+        <h3>AutoSoft</h3>
+        <p align="center">Sistema integral para la gestión de entregas, caja y nómina empresarial.</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>UP-Cel</h3>
+        <p align="center">Aplicación móvil tipo marketplace diseñada para el entorno universitario.</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>Ñam Ñam</h3>
+        <p align="center">Plataforma web de recetas de cocina con temporizadores integrados.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br><br><br><br><br><br>
+
+<h2>GitHub Stats 📈</h2>
+
+<p align="center">
+  <table align="left">
+    <tr border="none">
+      <td width="55%" align="center">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dark&hide_border=false" /> 
+      </td>
+      <td width="45%" align="center">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
+      </td>
+    </tr>
+  </table>
+</p>
+<br><br><br><br><br><br><br>
